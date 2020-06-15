@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ppsdevelopment</groupId>
+  <artifactId>com.ppsdevelopment.jdbcprocessor</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0-SNAPSHOT</version>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200615143559</lastUpdated>
+  </versioning>
+</metadata>

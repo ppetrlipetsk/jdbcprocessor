@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.ppsdevelopment</groupId>
+  <artifactId>com.ppsdevelopment.jdbcprocessor</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200615.143559</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20200615143559</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20200615.143559-2</value>
+        <updated>20200615143559</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20200615.143559-2</value>
+        <updated>20200615143559</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
+        <value>1.0-20200615.143559-2</value>
+        <updated>20200615143559</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
